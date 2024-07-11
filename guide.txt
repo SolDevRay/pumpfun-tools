@@ -1,0 +1,23 @@
+1) install all dependencies using
+pip install -r requirements.txt
+
+2) Paste your capsolver API key in .env file
+Top up and get key here
+https://www.capsolver.com/
+
+
+3)Paste proxies in format ip:port:login:password in proxies.txt
+
+4)Run those commands in console and choose generate accounts
+cd PATH TO YOUR BOT FOLDER
+python commentBot.py 
+
+
+5)replace bearer.txt with tokens from accounts/generated.txt
+
+
+TIPS:
+How to get picture for post?
+Post any comment on pump.fun with desired picture manually and then right click on pic and click copy image url 
+
+
